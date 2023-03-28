@@ -14,5 +14,5 @@
 
 ## HTML 
 <p> Formatos de arquivos para a Aula 04<p/>
-Alterações em <strong>HTML</strong> 
+<p>Alterações em <strong>HTML</strong> </p>
 
