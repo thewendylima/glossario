@@ -17,4 +17,8 @@
 <p>Alterações em <strong>HTML</strong> </p>
 <!DOCTYPE html> 
 ***HTML Hyper Text Markup Language 
+<html lang="pt-br">
+<body>
 <p> Criada na decada de 1990, considerado o pais da web <p/>
+  </body>
+<html>
