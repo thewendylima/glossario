@@ -13,6 +13,6 @@
 - *py*  `.py` Python source code
 
 ## HTML 
-<title><p> Formatos de arquivos para a Aula 04<p/></title>
+<title>Formatos de arquivos para a Aula 04</title>
 <p>Alterações em <strong>HTML</strong> </p>
 <!DOCTYPE html> 
